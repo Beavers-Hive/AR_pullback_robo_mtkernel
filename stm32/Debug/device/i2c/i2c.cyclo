@@ -1,0 +1,12 @@
+../device/i2c/i2c.c:45:10:read_atr	4
+../device/i2c/i2c.c:68:10:write_atr	12
+../device/i2c/i2c.c:114:10:read_data	5
+../device/i2c/i2c.c:137:10:write_data	5
+../device/i2c/i2c.c:167:4:dev_i2c_openfn	1
+../device/i2c/i2c.c:184:4:dev_i2c_closefn	1
+../device/i2c/i2c.c:200:4:dev_i2c_readfn	2
+../device/i2c/i2c.c:221:4:dev_i2c_writefn	2
+../device/i2c/i2c.c:242:4:dev_i2c_eventfn	1
+../device/i2c/i2c.c:250:11:dev_init_i2c	5
+../device/i2c/i2c.c:311:11:i2c_read_reg	1
+../device/i2c/i2c.c:328:11:i2c_write_reg	1

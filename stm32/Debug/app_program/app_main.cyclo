@@ -1,0 +1,10 @@
+../app_program/app_main.c:31:6:kalman_init	1
+../app_program/app_main.c:38:7:kalman_update	1
+../app_program/app_main.c:83:12:i2c_read_register	4
+../app_program/app_main.c:107:12:read_mpu9250	1
+../app_program/app_main.c:120:12:uart_init	2
+../app_program/app_main.c:130:13:uart_read_angle	4
+../app_program/app_main.c:158:12:task_1	1
+../app_program/app_main.c:168:12:task_2	1
+../app_program/app_main.c:176:12:task_motor_odometry	2
+../app_program/app_main.c:203:12:usermain	4

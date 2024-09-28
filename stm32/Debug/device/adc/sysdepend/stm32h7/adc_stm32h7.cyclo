@@ -1,0 +1,8 @@
+/Users/ys/mtk3_bsp/include/tk/sysdepend/cpu/stm32h7/syslib.h:52:13:out_w	1
+/Users/ys/mtk3_bsp/include/tk/sysdepend/cpu/stm32h7/syslib.h:65:11:in_w	1
+../device/adc/sysdepend/stm32h7/adc_stm32h7.c:65:6:adc_inthdr	7
+../device/adc/sysdepend/stm32h7/adc_stm32h7.c:99:10:adc_convert	8
+../device/adc/sysdepend/stm32h7/adc_stm32h7.c:140:10:adc_open	3
+../device/adc/sysdepend/stm32h7/adc_stm32h7.c:172:12:adc_close	3
+../device/adc/sysdepend/stm32h7/adc_stm32h7.c:184:10:dev_adc_llctl	6
+../device/adc/sysdepend/stm32h7/adc_stm32h7.c:213:11:dev_adc_llinit	6

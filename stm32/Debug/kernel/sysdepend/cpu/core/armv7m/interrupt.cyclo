@@ -1,0 +1,8 @@
+/Users/ys/mtk3_bsp/kernel/knlinc/../sysdepend/nucleo_h723/../cpu/stm32h7/../core/armv7m/sysdepend.h:65:11:knl_get_ipsr	1
+/Users/ys/mtk3_bsp/kernel/knlinc/../sysdepend/nucleo_h723/../cpu/stm32h7/../core/armv7m/cpu_status.h:70:13:knl_EnterTaskIndependent	1
+/Users/ys/mtk3_bsp/kernel/knlinc/../sysdepend/nucleo_h723/../cpu/stm32h7/../core/armv7m/cpu_status.h:74:13:knl_LeaveTaskIndependent	1
+../kernel/sysdepend/cpu/core/armv7m/interrupt.c:40:13:knl_hll_inthdr	1
+../kernel/sysdepend/cpu/core/armv7m/interrupt.c:60:13:knl_systim_inthdr	1
+../kernel/sysdepend/cpu/core/armv7m/interrupt.c:73:11:knl_define_inthdr	3
+../kernel/sysdepend/cpu/core/armv7m/interrupt.c:95:13:knl_return_inthdr	1
+../kernel/sysdepend/cpu/core/armv7m/interrupt.c:105:11:knl_init_interrupt	1

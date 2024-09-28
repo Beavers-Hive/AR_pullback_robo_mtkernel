@@ -1,0 +1,8 @@
+/Users/ys/mtk3_bsp/include/tk/sysdepend/cpu/stm32h7/syslib.h:52:13:out_w	16	static
+/Users/ys/mtk3_bsp/include/tk/sysdepend/cpu/stm32h7/syslib.h:65:11:in_w	16	static
+../device/i2c/sysdepend/stm32h7/i2c_stm32h7.c:98:12:i2c_evhdr	32	static
+../device/i2c/sysdepend/stm32h7/i2c_stm32h7.c:161:12:i2c_erhdr	24	static
+../device/i2c/sysdepend/stm32h7/i2c_stm32h7.c:190:10:i2c_trans	32	static
+../device/i2c/sysdepend/stm32h7/i2c_stm32h7.c:246:13:set_com_start	24	static
+../device/i2c/sysdepend/stm32h7/i2c_stm32h7.c:260:10:dev_i2c_llctl	48	static
+../device/i2c/sysdepend/stm32h7/i2c_stm32h7.c:304:11:dev_i2c_llinit	40	static

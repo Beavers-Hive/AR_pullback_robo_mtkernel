@@ -1,0 +1,15 @@
+../device/ser/ser.h:45:13:buff_init	16	static
+../device/ser/ser.c:45:13:dev_ser_get_snddat	24	static
+../device/ser/ser.c:64:13:dev_ser_notify_rcv	24	static
+../device/ser/ser.c:86:13:dev_ser_notify_err	16	static
+../device/ser/ser.c:95:10:set_atr_size	16	static
+../device/ser/ser.c:116:10:read_atr	24	static
+../device/ser/ser.c:156:10:write_atr	24	static
+../device/ser/ser.c:196:10:read_data	40	static
+../device/ser/ser.c:240:10:write_data	40	static
+../device/ser/ser.c:300:4:dev_ser_openfn	32	static
+../device/ser/ser.c:320:4:dev_ser_closefn	32	static
+../device/ser/ser.c:336:4:dev_ser_readfn	24	static
+../device/ser/ser.c:359:4:dev_ser_writefn	24	static
+../device/ser/ser.c:382:4:dev_ser_eventfn	24	static
+../device/ser/ser.c:390:11:dev_init_ser	88	static

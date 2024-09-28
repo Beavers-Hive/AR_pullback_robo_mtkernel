@@ -1,0 +1,7 @@
+/Users/ys/mtk3_bsp/include/tk/sysdepend/cpu/stm32h7/syslib.h:52:13:out_w	1
+/Users/ys/mtk3_bsp/include/tk/sysdepend/cpu/stm32h7/syslib.h:65:11:in_w	1
+../device/ser/sysdepend/stm32h7/ser_stm32h7.c:109:6:usart_inthdr	8
+../device/ser/sysdepend/stm32h7/ser_stm32h7.c:151:12:start_com	1
+../device/ser/sysdepend/stm32h7/ser_stm32h7.c:168:12:stop_com	2
+../device/ser/sysdepend/stm32h7/ser_stm32h7.c:180:11:dev_ser_llctl	9
+../device/ser/sysdepend/stm32h7/ser_stm32h7.c:229:11:dev_ser_llinit	10

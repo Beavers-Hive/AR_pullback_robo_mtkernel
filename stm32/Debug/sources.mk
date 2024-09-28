@@ -1,0 +1,99 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+# Toolchain: GNU Tools for STM32 (12.3.rel1)
+################################################################################
+
+ELF_SRCS := 
+OBJ_SRCS := 
+S_SRCS := 
+C_SRCS := 
+S_UPPER_SRCS := 
+O_SRCS := 
+CYCLO_FILES := 
+SIZE_OUTPUT := 
+OBJDUMP_LIST := 
+SU_FILES := 
+EXECUTABLES := 
+OBJS := 
+MAP_FILES := 
+S_DEPS := 
+S_UPPER_DEPS := 
+C_DEPS := 
+
+# Every subdirectory with source files must be described here
+SUBDIRS := \
+app_program \
+device/adc \
+device/adc/sysdepend/rp2040 \
+device/adc/sysdepend/rx231 \
+device/adc/sysdepend/rx65n \
+device/adc/sysdepend/rza2m \
+device/adc/sysdepend/stm32h7 \
+device/adc/sysdepend/stm32l4 \
+device/adc/sysdepend/tx03_m367 \
+device/common/drvif \
+device/i2c \
+device/i2c/sysdepend/rp2040 \
+device/i2c/sysdepend/rx231 \
+device/i2c/sysdepend/rx65n \
+device/i2c/sysdepend/rza2m \
+device/i2c/sysdepend/stm32h7 \
+device/i2c/sysdepend/stm32l4 \
+device/i2c/sysdepend/tx03_m367 \
+device/ser \
+device/ser/sysdepend/rp2040 \
+device/ser/sysdepend/rx231 \
+device/ser/sysdepend/rx65n \
+device/ser/sysdepend/rza2m \
+device/ser/sysdepend/stm32h7 \
+device/ser/sysdepend/stm32l4 \
+device/ser/sysdepend/tx03_m367 \
+kernel/inittask \
+kernel/sysdepend/cpu/core/armv6m \
+kernel/sysdepend/cpu/core/armv7a \
+kernel/sysdepend/cpu/core/armv7m \
+kernel/sysdepend/cpu/core/rxv2 \
+kernel/sysdepend/cpu/rp2040 \
+kernel/sysdepend/cpu/rx231 \
+kernel/sysdepend/cpu/rx65n \
+kernel/sysdepend/cpu/rza2m \
+kernel/sysdepend/cpu/stm32h7 \
+kernel/sysdepend/cpu/stm32l4 \
+kernel/sysdepend/cpu/tx03_m367 \
+kernel/sysdepend/iote_m367 \
+kernel/sysdepend/iote_rx231 \
+kernel/sysdepend/iote_rza2m \
+kernel/sysdepend/iote_stm32l4 \
+kernel/sysdepend/nucleo_h723 \
+kernel/sysdepend/nucleo_l476 \
+kernel/sysdepend/pico_rp2040 \
+kernel/sysdepend/rsk_rx65n \
+kernel/sysdepend/rtb_rx65n \
+kernel/sysinit \
+kernel/tkernel \
+kernel/tstdlib \
+kernel/usermain \
+lib/libbsp/sysdepend/cpu/rp2040 \
+lib/libtk \
+lib/libtk/sysdepend/cpu/core/armv6m \
+lib/libtk/sysdepend/cpu/core/armv7a \
+lib/libtk/sysdepend/cpu/core/armv7m \
+lib/libtk/sysdepend/cpu/core/rxv2 \
+lib/libtk/sysdepend/cpu/rp2040 \
+lib/libtk/sysdepend/cpu/rx231 \
+lib/libtk/sysdepend/cpu/rx65n \
+lib/libtk/sysdepend/cpu/rza2m \
+lib/libtk/sysdepend/cpu/stm32h7 \
+lib/libtk/sysdepend/cpu/stm32l4 \
+lib/libtk/sysdepend/cpu/tx03_m367 \
+lib/libtm \
+lib/libtm/sysdepend/iote_m367 \
+lib/libtm/sysdepend/iote_rx231 \
+lib/libtm/sysdepend/iote_rza2m \
+lib/libtm/sysdepend/iote_stm32l4 \
+lib/libtm/sysdepend/no_device \
+lib/libtm/sysdepend/nucleo_h723 \
+lib/libtm/sysdepend/nucleo_l476 \
+lib/libtm/sysdepend/pico_rp2040 \
+lib/libtm/sysdepend/rsk_rz65n \
+

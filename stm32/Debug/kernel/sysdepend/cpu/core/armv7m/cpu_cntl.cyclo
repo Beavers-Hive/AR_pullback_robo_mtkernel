@@ -1,0 +1,4 @@
+../kernel/sysdepend/cpu/core/armv7m/cpu_cntl.c:36:13:knl_set_reg	7
+../kernel/sysdepend/cpu/core/armv7m/cpu_cntl.c:81:13:knl_get_reg	6
+../kernel/sysdepend/cpu/core/armv7m/cpu_cntl.c:184:13:knl_force_dispatch	1
+../kernel/sysdepend/cpu/core/armv7m/cpu_cntl.c:192:13:knl_dispatch	1

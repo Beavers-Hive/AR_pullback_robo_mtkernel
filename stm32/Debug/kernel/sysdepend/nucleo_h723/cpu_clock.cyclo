@@ -1,0 +1,4 @@
+/Users/ys/mtk3_bsp/include/tk/sysdepend/cpu/stm32h7/syslib.h:52:13:out_w	1
+/Users/ys/mtk3_bsp/include/tk/sysdepend/cpu/stm32h7/syslib.h:65:11:in_w	1
+../kernel/sysdepend/nucleo_h723/cpu_clock.c:29:13:startup_clock	23
+../kernel/sysdepend/nucleo_h723/cpu_clock.c:142:13:shutdown_clock	1

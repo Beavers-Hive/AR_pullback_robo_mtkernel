@@ -1,0 +1,5 @@
+/Users/ys/mtk3_bsp/kernel/knlinc/../sysdepend/nucleo_h723/../cpu/stm32h7/../core/armv7m/cpu_status.h:63:13:knl_isTaskIndependent	1
+../kernel/tkernel/cpuctl.c:29:12:tk_dis_dsp	4
+../kernel/tkernel/cpuctl.c:45:12:tk_ena_dsp	5
+../kernel/tkernel/cpuctl.c:64:12:tk_set_reg	15
+../kernel/tkernel/cpuctl.c:93:12:tk_get_reg	15

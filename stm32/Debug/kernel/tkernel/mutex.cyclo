@@ -1,0 +1,17 @@
+/Users/ys/mtk3_bsp/include/sys/queue.h:40:13:QueInit	1
+/Users/ys/mtk3_bsp/include/sys/queue.h:49:13:isQueEmpty	1
+/Users/ys/mtk3_bsp/include/sys/queue.h:58:13:QueInsert	1
+/Users/ys/mtk3_bsp/include/sys/queue.h:85:15:QueRemoveNext	2
+/Users/ys/mtk3_bsp/kernel/knlinc/../sysdepend/nucleo_h723/../cpu/stm32h7/../core/armv7m/cpu_status.h:63:13:knl_isTaskIndependent	1
+../kernel/tkernel/wait.h:78:13:knl_queue_insert_tpri	3
+../kernel/tkernel/mutex.c:33:11:knl_mutex_initialize	2
+../kernel/tkernel/mutex.c:61:13:knl_release_mutex	8
+../kernel/tkernel/mutex.c:111:13:knl_signal_all_mutex	5
+../kernel/tkernel/mutex.c:158:12:knl_chg_pri_mutex	12
+../kernel/tkernel/mutex.c:211:12:tk_cre_mtx	9
+../kernel/tkernel/mutex.c:268:12:tk_del_mtx	8
+../kernel/tkernel/mutex.c:306:12:mtx_chg_pri	4
+../kernel/tkernel/mutex.c:333:12:mtx_rel_wai	2
+../kernel/tkernel/mutex.c:358:12:tk_loc_mtx	24
+../kernel/tkernel/mutex.c:442:12:tk_unl_mtx	13
+../kernel/tkernel/mutex.c:501:12:tk_ref_mtx	8

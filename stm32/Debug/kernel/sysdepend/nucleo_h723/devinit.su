@@ -1,0 +1,3 @@
+../kernel/sysdepend/nucleo_h723/devinit.c:35:11:knl_init_device	4	static
+../kernel/sysdepend/nucleo_h723/devinit.c:45:11:knl_start_device	16	static
+../kernel/sysdepend/nucleo_h723/devinit.c:80:11:knl_finish_device	4	static

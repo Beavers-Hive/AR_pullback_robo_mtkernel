@@ -1,0 +1,9 @@
+../device/adc/adc.c:45:10:read_atr	4
+../device/adc/adc.c:68:10:write_atr	4
+../device/adc/adc.c:93:10:read_data	4
+../device/adc/adc.c:120:4:dev_adc_openfn	1
+../device/adc/adc.c:137:4:dev_adc_closefn	1
+../device/adc/adc.c:153:4:dev_adc_readfn	3
+../device/adc/adc.c:176:4:dev_adc_writefn	2
+../device/adc/adc.c:195:4:dev_adc_eventfn	1
+../device/adc/adc.c:203:11:dev_init_adc	5

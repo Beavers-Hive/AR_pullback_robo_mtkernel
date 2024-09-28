@@ -1,0 +1,9 @@
+../lib/libtk/fastmlock.c:34:13:INC	1
+../lib/libtk/fastmlock.c:43:13:DEC	1
+../lib/libtk/fastmlock.c:52:13:BTS	1
+../lib/libtk/fastmlock.c:65:13:BR	1
+../lib/libtk/fastmlock.c:79:11:MLockTmo	3
+../lib/libtk/fastmlock.c:106:11:MLock	1
+../lib/libtk/fastmlock.c:115:11:MUnlock	2
+../lib/libtk/fastmlock.c:129:11:CreateMLock	3
+../lib/libtk/fastmlock.c:153:11:DeleteMLock	3

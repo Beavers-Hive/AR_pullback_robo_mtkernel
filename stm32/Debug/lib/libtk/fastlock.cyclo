@@ -1,0 +1,6 @@
+../lib/libtk/fastlock.c:34:12:Inc	1
+../lib/libtk/fastlock.c:43:12:Dec	1
+../lib/libtk/fastlock.c:56:13:Lock	2
+../lib/libtk/fastlock.c:66:13:Unlock	2
+../lib/libtk/fastlock.c:76:11:CreateLock	3
+../lib/libtk/fastlock.c:101:13:DeleteLock	2

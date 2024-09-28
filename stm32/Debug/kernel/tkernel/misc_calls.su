@@ -1,0 +1,3 @@
+/Users/ys/mtk3_bsp/kernel/knlinc/../sysdepend/nucleo_h723/../cpu/stm32h7/../core/armv7m/cpu_status.h:63:13:knl_isTaskIndependent	4	static
+../kernel/tkernel/misc_calls.c:27:12:tk_ref_sys	24	static
+../kernel/tkernel/misc_calls.c:63:12:tk_ref_ver	16	static

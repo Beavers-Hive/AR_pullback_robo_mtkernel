@@ -1,0 +1,4 @@
+/Users/ys/mtk3_bsp/include/tk/sysdepend/cpu/stm32h7/syslib.h:65:11:in_w	16	static
+../lib/libtk/sysdepend/cpu/core/armv7m/wusec_armv7m.c:26:12:wait_us	40	static
+../lib/libtk/sysdepend/cpu/core/armv7m/wusec_armv7m.c:50:13:WaitUsec	16	static
+../lib/libtk/sysdepend/cpu/core/armv7m/wusec_armv7m.c:58:13:WaitNsec	16	static

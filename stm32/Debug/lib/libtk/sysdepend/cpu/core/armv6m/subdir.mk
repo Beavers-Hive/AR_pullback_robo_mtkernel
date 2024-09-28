@@ -1,0 +1,30 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+# Toolchain: GNU Tools for STM32 (12.3.rel1)
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+C_SRCS += \
+../lib/libtk/sysdepend/cpu/core/armv6m/int_armv6m.c \
+../lib/libtk/sysdepend/cpu/core/armv6m/wusec_armv6m.c 
+
+OBJS += \
+./lib/libtk/sysdepend/cpu/core/armv6m/int_armv6m.o \
+./lib/libtk/sysdepend/cpu/core/armv6m/wusec_armv6m.o 
+
+C_DEPS += \
+./lib/libtk/sysdepend/cpu/core/armv6m/int_armv6m.d \
+./lib/libtk/sysdepend/cpu/core/armv6m/wusec_armv6m.d 
+
+
+# Each subdirectory must supply rules for building sources it contributes
+lib/libtk/sysdepend/cpu/core/armv6m/%.o lib/libtk/sysdepend/cpu/core/armv6m/%.su lib/libtk/sysdepend/cpu/core/armv6m/%.cyclo: ../lib/libtk/sysdepend/cpu/core/armv6m/%.c lib/libtk/sysdepend/cpu/core/armv6m/subdir.mk
+	arm-none-eabi-gcc "$<" -mcpu=cortex-m7 -std=gnu99 -g3 -D_NUCLEO_H723_ -c -I"/Users/ys/mtk3_bsp/config" -I"/Users/ys/mtk3_bsp/include" -I"/Users/ys/mtk3_bsp/kernel/knlinc" -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"$(@:%.o=%.d)" -MT"$@" --specs=nano.specs -mfpu=fpv5-d16 -mfloat-abi=soft -mthumb -o "$@"
+
+clean: clean-lib-2f-libtk-2f-sysdepend-2f-cpu-2f-core-2f-armv6m
+
+clean-lib-2f-libtk-2f-sysdepend-2f-cpu-2f-core-2f-armv6m:
+	-$(RM) ./lib/libtk/sysdepend/cpu/core/armv6m/int_armv6m.cyclo ./lib/libtk/sysdepend/cpu/core/armv6m/int_armv6m.d ./lib/libtk/sysdepend/cpu/core/armv6m/int_armv6m.o ./lib/libtk/sysdepend/cpu/core/armv6m/int_armv6m.su ./lib/libtk/sysdepend/cpu/core/armv6m/wusec_armv6m.cyclo ./lib/libtk/sysdepend/cpu/core/armv6m/wusec_armv6m.d ./lib/libtk/sysdepend/cpu/core/armv6m/wusec_armv6m.o ./lib/libtk/sysdepend/cpu/core/armv6m/wusec_armv6m.su
+
+.PHONY: clean-lib-2f-libtk-2f-sysdepend-2f-cpu-2f-core-2f-armv6m
+

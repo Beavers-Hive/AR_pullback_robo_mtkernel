@@ -1,0 +1,2 @@
+../kernel/sysinit/sysinit.c:26:12:main	16	static
+../kernel/sysinit/sysinit.c:109:13:knl_tkernel_exit	8	static

@@ -1,0 +1,8 @@
+../kernel/sysdepend/cpu/core/armv7m/exc_hdr.c:36:23:NMI_Handler	1
+../kernel/sysdepend/cpu/core/armv7m/exc_hdr.c:45:23:HardFault_Handler	3
+../kernel/sysdepend/cpu/core/armv7m/exc_hdr.c:72:23:MemManage_Handler	1
+../kernel/sysdepend/cpu/core/armv7m/exc_hdr.c:81:23:BusFault_Handler	1
+../kernel/sysdepend/cpu/core/armv7m/exc_hdr.c:90:23:UsageFault_Handler	1
+../kernel/sysdepend/cpu/core/armv7m/exc_hdr.c:99:23:Svcall_Handler	1
+../kernel/sysdepend/cpu/core/armv7m/exc_hdr.c:108:23:DebugMon_Handler	1
+../kernel/sysdepend/cpu/core/armv7m/exc_hdr.c:117:23:Default_Handler	2

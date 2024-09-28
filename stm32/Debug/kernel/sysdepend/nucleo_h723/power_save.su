@@ -1,0 +1,2 @@
+../kernel/sysdepend/nucleo_h723/power_save.c:29:13:low_pow	4	static
+../kernel/sysdepend/nucleo_h723/power_save.c:36:13:off_pow	4	static
